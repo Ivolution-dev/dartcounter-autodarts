@@ -76,8 +76,8 @@ python dartcounter-autodarts.py
 
   * AutoDarts
   * DartCounter
-  * Es liest deine Dartwürfe aus AutoDarts aus und trägt sie automatisch in DartCounter ein
-  * Beobachte die Leg-Scores in Echtzeit im Terminal
+* Es liest deine Dartwürfe aus AutoDarts aus und trägt sie automatisch in DartCounter ein
+* Beobachte die Leg-Scores in Echtzeit im Terminal
 
 ---
 
