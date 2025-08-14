@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # Konfiguration
 # ---------------------------
 
-AUTODARTS_URL = "YOUR LOCAL AUTODARTS IP"
+AUTODARTS_URL = "http://YOUR_LOCAL_AUTODARS_IP:3180/"
 DARTCOUNTER_URL = "https://app.dartcounter.net"
 SPAN_CLASS_NAME = "css-1ny2kle"
 INPUT_SELECTOR = 'input.in-game-score-field'
