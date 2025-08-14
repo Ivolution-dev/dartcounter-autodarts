@@ -22,8 +22,6 @@ git clone https://github.com/Ivolution-dev/dartcounter-autodarts
 cd dartcounter-autodarts
 ```
 
-Ersetze `DEIN_USERNAME` und `DEIN_REPO` durch die passenden Werte.
-
 ---
 
 2. **Virtuelle Umgebung erstellen (optional, empfohlen)**
